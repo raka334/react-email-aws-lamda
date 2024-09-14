@@ -20,7 +20,7 @@ Ensure you have the following:
 The frontend is a Vite-powered application that provides a form for users to submit their interests.
 
 ### Getting Started with Frontend
-
+g
 1. Navigate to the `src/` directory.
 2. Install dependencies using:
 
